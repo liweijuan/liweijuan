@@ -1,0 +1,9 @@
+body{font:gray 12px Arial;
+	 line-height:2em;}
+a{color:#727272;}
+a:link{text-decoration:none}
+a:hover{text-decoration:underline;}
+div{font:bold 14px;}
+a.b:link{color:white;}
+a.a:hover{color:#b9f605;text-decoration:none;}
+.systeam{color:#fdb306;}
