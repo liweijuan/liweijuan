@@ -1,0 +1,85 @@
+
+body{margin-left:200px;}
+	#banner{
+		width:1080px;height:150px;
+		background-image:url(F:/网页文件/大作业/images/xl2.png);
+		background-size:100% 100%;
+	}
+	#top{
+		width:1080px;height:1000px;
+		background-image:url(F:/网页文件/大作业/images/5.jpg);
+		background-size:100% 100%;
+	}
+	#a{
+		width:1080px;height:30px;
+		background-image:url(F:/网页文件/大作业/images/b2.jpg.gif);
+	}
+	#aa{
+		background-image:url(F:/网页文件/大作业/images/fg2.jpg);
+		background-size:100% 100%;
+		width:1080px;height:60px;
+		text-align:center;
+		padding-top:0px;
+	}
+	#b{
+		padding-left:320px;
+		padding-top:110px;
+	}
+	a{
+		text-decoration:none;
+		color:#552016;
+		font-size:35px;
+		font-family:"隶书";
+		letter-spacing:10px;
+	}
+	#wz{
+		font-size:18px;
+		font-color:#201601;
+		padding-top:5px;
+	}
+	#c{
+		padding-top:80px;
+		padding-left:20px;
+		height:300px;
+		width:500px;
+		float:left;
+	}
+	#cb{
+		text-align:center;
+		padding-top:120px;
+		padding-left:580px;
+		font-size:25px;
+		color:#422222;
+		list-style-type:none;
+	}
+	#cc{
+		padding-top:20px;
+		padding-left:750px;
+		float:left;
+
+	}
+	#d{
+		position:absolute;
+		top:720px;
+		left:220px;
+
+	}
+	#fx{
+		text-align:center;
+		padding-top:400px;
+		padding-left:750px;
+		font-size:25px;
+		color:#422222;
+		line-height:25px;
+	}
+	#f{
+		width:1.5em;
+		float:left;
+		list-style:none;
+	}
+	#footer{
+		text-align:center;
+		position:absolute;
+		left:600px;
+		top:1220px;
+	}
